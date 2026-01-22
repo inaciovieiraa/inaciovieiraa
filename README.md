@@ -1,5 +1,4 @@
 # Olá! Eu sou o Inácio Vieira 👋
-
 ---
 
 ### 🩺 Enfermagem & Ciência de Dados | UFMG
