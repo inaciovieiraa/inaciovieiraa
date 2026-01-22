@@ -4,7 +4,7 @@
 
 Sou Inácio Vieira, estudante de Enfermagem na **Universidade Federal de Minas Gerais (UFMG)**, com atuação prática em Pesquisa e Ciência de Dados em Saúde.
 
-Desenvolvo análises estatísticas e modelos preditivos, unindo o raciocínio clínico à eficiência técnica. No momento, estou aprendendo a trabalhar com **R, RStudio e Excel** para manipulação de dados, automação de triagens e suporte à decisão clínica baseada em evidências.
+Desenvolvo análises estatísticas e análises preditivas exploratórias em dados de saúde, unindo o raciocínio clínico à eficiência técnica. No momento, estou aprendendo a trabalhar com **R, RStudio e Excel** para manipulação de dados, automação de triagens e suporte à decisão clínica baseada em evidências.
 
 Tenho experiência em projetos acadêmicos de **Farmacogenética** e **Inteligência Artificial** (Stanford Capstone), com foco em transformar dados brutos em melhoria direta para o cuidado ao paciente.
 
