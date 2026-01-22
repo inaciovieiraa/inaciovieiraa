@@ -1,7 +1,5 @@
 # Olá! Eu sou o Inácio Vieira 👋
 
-### 🩺 Enfermagem & Ciência de Dados | UFMG
-
 🧑‍💻 **Sobre Mim**
 
 Sou Inácio Vieira, estudante de Enfermagem na **Universidade Federal de Minas Gerais (UFMG)**, com atuação prática em Pesquisa e Ciência de Dados em Saúde.
