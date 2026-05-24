@@ -8,16 +8,9 @@ Desenvolvo pipelines de dados, automação de análises e visualizações estat�
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=r,rstudio,excel&theme=dark" />
-</p>
-
----
-
 ## 🚀 Projetos em Destaque
 
-### [Pharmacogenetics Nursing Education Analysis](https://github.com/inaciosvieira/pharmacogenetics-nursing-analysis)
+### [Pharmacogenetics Nursing Education Analysis](https://github.com/inaciovieiraa/pharmacogenetics-nursing-education-analysis)
 *Análise de dados educacionais que validou, estatisticamente, o impacto de uma intervenção docente no conhecimento clínico de estudantes de Enfermagem sobre farmacogenética.*
 * **Stack:** R, Tidyverse (dplyr/tidyr), ggplot2.
 * **Resultado:** Pipeline de dados automatizado com visualizações de alta resolução e evidência quantitativa de quebra de paradigmas clínicos.
@@ -35,5 +28,5 @@ Desenvolvo pipelines de dados, automação de análises e visualizações estat�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inaciosvieira&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="inaciosvieira's github stats" />
+  <img src="https://skillicons.dev/icons?i=r,rstudio,excel&theme=dark" />
 </p>
