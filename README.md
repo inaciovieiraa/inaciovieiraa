@@ -20,10 +20,10 @@ O meu foco é usar tecnologia e programação para resolver problemas reais da �
 * **Foco:** Validação Cruzada Estratificada, métricas de performance (AUROC vs. Acurácia) e segurança clínica do paciente.
 * **Destaque:** Aplicação prática das diretrizes éticas e de regulamentação (FDA/ANVISA) para softwares de apoio à decisão clínica.
 
-### [Análise de Dados em Farmacovigilância (ESAVI)](https://github.com/inaciovieiraa/analise-esavi-r)
-*Projeto focado na limpeza e análise estatística de Eventos Supostamente Atribuíveis à Vacinação ou Imunização.*
-* **Stack:** R, Tidyverse, Regex (Manipulação de Strings).
-* **Destaque:** Resolução de problemas clássicos de dados reais da saúde (colunas mistas e relatos em texto livre) para cálculo de taxa de reações adversas por fabricante.
+### [Impacto Cardiovascular do Tabagismo: Análise por Carga e Sexo](https://github.com/inaciovieiraa/analise-tabagismo-r)
+*Estudo epidemiológico sobre o efeito dose-resposta da nicotina na frequência cardíaca e variação fisiológica entre os sexos.*
+* **Stack:** R, Tidyverse (ETL e Feature Engineering), Microsoft Excel (Business Intelligence e Tabelas Dinâmicas).
+* **Destaque:** Eliminação de viés populacional via *Complete-Case Analysis* para isolar fumantes ativos e identificação clínica de uma reatividade miocárdica masculina quase duas vezes maior ao tabagismo pesado em comparação às mulheres.
 
 ---
 
